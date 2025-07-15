@@ -1,6 +1,6 @@
 Counter Magic
 
-A simple web‑based counter with a personalised greeting. Built with HTML, CSS, and vanilla JavaScript—no frameworks required.
+A simple web‑based counter with a personalised greeting. Built with HTML, CSS, and JavaScript—no frameworks required.
 
 ✨ Features
 
@@ -81,8 +81,8 @@ Logic → extend the functions in index.js (e.g., prevent negative counts).
 This project is released under the MIT License. Feel free to use and modify it.
 
 👤 Author
-
-Amara ShivatejaGitHub · LinkedIn
+amarashivateja
+GitHub · LinkedIn
 
 Happy counting!
 
