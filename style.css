@@ -1,0 +1,32 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    background-color: rgb(220, 239, 245);
+}
+#h1{
+    color: rgb(255, 81, 0);
+}
+div{
+    font-size: larger;
+}
+#countLabel{
+    display: block;
+    font-size: 10cm;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.buttons{
+    padding: 10px 10px;
+    font-size: 1.5cm;
+    color: rgb(255, 0, 0);
+    background-color: rgb(43, 226, 86);
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.buttons:hover{
+    background-color: rgb(195, 255, 0);
+}
+#btnCon{
+    text-align: center;
+}
